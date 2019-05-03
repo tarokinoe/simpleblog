@@ -1,4 +1,2 @@
 aiohttp==2.3.1
-SQLAlchemy==1.1.13
 aiopg==0.13.1
-WTForms==2.1
